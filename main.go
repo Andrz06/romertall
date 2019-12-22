@@ -6,5 +6,5 @@ import (
 
 func main() {
 	x := 2 * 3
-	fmt.Printf("2 x 2 er lik %d", x)
+	fmt.Printf("2 * 3 er lik %d", x)
 }
